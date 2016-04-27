@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>My Completed Tasks</shortname>
+   <description>Dashlet to list completed tasks assigned to the current user</description>
+   <family>user-dashlet</family>
+   <url>/components/dashlets/completed-tasks</url>
+</webscript>

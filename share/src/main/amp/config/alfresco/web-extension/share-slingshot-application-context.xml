@@ -13,7 +13,7 @@
              placed in the tomcat/shared/classes/alfresco/web-extension/custom-slingshot-application-context.xml file
     -->
 
-	<bean id="org.alfresco.components.dashlets" class="com.hopenshare.controller.CompletedTask"
+	<bean id="webscript.org.alfresco.components.dashlets.completed-tasks.get" class="com.hopenshare.controller.CompletedTask"
 		parent="webscript">
 	</bean>
 
